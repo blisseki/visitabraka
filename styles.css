@@ -1,0 +1,84 @@
+body{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-image: url("images/abrakamock.jpeg");
+    background-size: cover;
+    height: 500px;
+    padding: 30px 0px 40px 0px;
+    justify-content: space-around;
+    background-position: center;
+    background-attachment: fixed; 
+    margin: auto;
+}
+.banner-text{
+    padding: 120px 0px 120px;
+    margin: 50px auto;
+}
+.textborder{
+    border-style: solid ;
+    width: 300px;
+    border-color: #8EE3F5;
+    background-color: #8EE3F5;
+    border-radius: 10px;
+    margin: auto;
+}
+.textborder2{
+    border-style: solid ;
+    width: 400px;
+    border-color: #70CAD1;
+    background-color: #70CAD1;
+    border-radius: 10px;
+    margin: auto;
+}
+.main{
+    background-color: #FFE3E0;
+    padding: 50px;
+    margin: auto;
+}
+.itinerary{
+    display: flex;
+    justify-content: space-between;
+}
+.main2{
+    background-color: #A8E0FF;
+    padding: 20px;
+    }
+.avatar{
+    width: 150px;
+    border-radius: 50px
+}
+.guide{
+    display: flex;
+    justify-content: space-between;
+    border-style: solid;
+    width:500px;
+    margin: 0px auto;
+    padding: 20px 10px 10px;
+    border-color: powderblue;
+    border-radius: 10px;
+    background-color: powderblue;
+    border-bottom: 4px solid blueviolet;
+}
+.guidephoto{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+#italics{
+    font-style: italic;
+}
+.footer{
+   display: flex;
+   justify-content: space-around;
+   margin: 0px auto;
+   background-color: #3E517A;
+   padding: 10px;
+   color: whitesmoke;
+}
+.sociallogo{
+    width: 50px;
+}
